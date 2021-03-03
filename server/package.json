@@ -22,7 +22,7 @@
     "koa2-cors": "^2.0.6",
     "mongoose": "^5.7.13",
     "mongos": "^0.0.0",
-    "pug": "^2.0.3"
+    "pug": "^3.0.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
